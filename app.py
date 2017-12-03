@@ -1,6 +1,7 @@
 
 import RPi.GPIO as GPIO
 import time
+import wget
 
 import requests
 import picamera
