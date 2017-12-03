@@ -1,8 +1,8 @@
-#Vision.AI
+##Vision.AI
 
 It is an innovative idea to help the blind to see better.
 
-#Installation
+##Installation
 
 -- server:
   pip install -r requirements.txt
@@ -14,7 +14,7 @@ It is an innovative idea to help the blind to see better.
 
   USe the app.py file
   
-#Open source libraries used:
+##Open source libraries used:
 
 --im2txt : https://github.com/tensorflow/models/tree/master/research/im2txt
 
