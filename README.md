@@ -5,7 +5,24 @@ It is an innovative idea to help the blind to see better.
 ## Installation
 
 * server:
-  pip install -r requirements.txt
+### Step #1 :
+
+* Clone the Repo. *(`cd` into the `dir` after extracing the `.zip`)*
+
+### Step #2 :
+
+* Install the [Requirements](#requirements)
+
+### Step #3 :
+
+* Fire up the terminal, and execute this piece of snippet :
+
+`python run.py`
+
+**Yay !**
+
+> Running on http://127.0.0.1:4000/ (Press CTRL+C to quit)
+
   
 * app:
   use android studio and build the app.
