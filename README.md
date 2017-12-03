@@ -1,23 +1,23 @@
-##Vision.AI
+# Vision.AI
 
 It is an innovative idea to help the blind to see better.
 
-##Installation
+## Installation
 
--- server:
+* server:
   pip install -r requirements.txt
   
---app:
+* app:
   use android studio and build the app.
 
--- Raspberrypi:
+* Raspberrypi:
 
   USe the app.py file
   
-##Open source libraries used:
+## Open source libraries used:
 
---im2txt : https://github.com/tensorflow/models/tree/master/research/im2txt
+* im2txt : https://github.com/tensorflow/models/tree/master/research/im2txt
 
---face_recognition: https://github.com/ageitgey/face_recognition
+* face_recognition: https://github.com/ageitgey/face_recognition
 
---google vision Api
+* google vision Api
