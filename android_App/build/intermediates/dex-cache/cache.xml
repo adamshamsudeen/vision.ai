@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/power/.android/build-cache/d7f3a0fa65768173ae6d98ab1c91dd472b137688/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/power/Jibin/android-vision/visionSamples/FaceTracker/app/build/intermediates/pre-dexed/debug/classes_d5c7d2ec27c4e5f9385ceb7b11f716c191e8ce34.jar" />
+    </item>
+
+</items>
