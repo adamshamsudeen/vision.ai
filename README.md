@@ -1,5 +1,7 @@
 # Vision.AI
 
+![](https://github.com/sreehari1997/vision.ai/blob/master/images/vision.png)
+
 It is an innovative idea to help the blind to see the world better.The app describes the scene which the user is viewing in his/her regional language with the click of a button.
 
 ## Installation
