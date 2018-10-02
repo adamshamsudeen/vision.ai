@@ -1,6 +1,6 @@
 # Vision.AI
 
-It is an innovative idea to help the blind to see better.
+It is an innovative idea to help the blind to see the world better.The app describes the scene which the user is viewing in his/her regional language with the click of a button.
 
 ## Installation
 
@@ -8,6 +8,10 @@ It is an innovative idea to help the blind to see better.
 ### Step #1 :
 
 * Clone the Repo. *(`cd` into the `dir` after extracing the `.zip`)*
+```bash
+git clone https://github.com/adamshamsudeen/vision.ai.git
+cd vision.ai
+```
 
 ### Step #2 :
 
