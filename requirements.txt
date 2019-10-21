@@ -73,4 +73,4 @@ tenacity==4.4.0
 tensorflow==1.0.0
 tensorflow-tensorboard==0.1.7
 urllib3==1.22
-Werkzeug==0.12.2
+Werkzeug==0.15.3
