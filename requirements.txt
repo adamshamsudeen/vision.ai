@@ -66,7 +66,7 @@ protobuf==3.4.0
 pyasn1==0.3.6
 pyasn1-modules==0.1.4
 requests==2.18.4
-rsa==3.4.2
+rsa==4.7
 scipy==0.19.1
 six==1.11.0
 tenacity==4.4.0
