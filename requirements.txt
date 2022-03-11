@@ -53,7 +53,7 @@ mtranslate==1.6
 numpy==1.13.3
 oauth2client==3.0.0
 olefile==0.44
-Pillow==4.2.1
+Pillow==9.0.1
 ply==3.8
 proto-google-cloud-datastore-v1==0.90.4
 proto-google-cloud-error-reporting-v1beta1==0.15.3
